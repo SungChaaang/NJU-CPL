@@ -1,0 +1,1 @@
+在`github`建立仓库的时候，要注意使用`https`协议。这里使用`personal access token`作为密码访问远程仓库。
